@@ -1,7 +1,7 @@
 # Zim-Stock-Dashboard
 
 <h2>Description</h2>
-This project continues on from the work done in the Zim-Stock-Project(https://github.com/Teekaynium/ZimStock-Project.git). Here, the json files that were created in the aforementioned project are used to create a dashboard that allows one to analyse the Zimbabwe Equity Market.  
+This project continues on from the work done in the [Zim-Stock-Project](https://github.com/Teekaynium/ZimStock-Project.git). Here, the json files that were created in the aforementioned project are used to create a dashboard that allows one to analyse the Zimbabwe Equity Market.  
 <br />
 
 
@@ -21,14 +21,14 @@ This project continues on from the work done in the Zim-Stock-Project(https://gi
 
 <p align="center">
 Accessing Zim Stock json files: <br/>
-The project follows the code as described in the app.py file (https://raw.githubusercontent.com/Teekaynium/Zim-Stock-Dashboard/refs/heads/main/app.py) found in this repo. 
+The project follows the code as described in the [app.py file](https://raw.githubusercontent.com/Teekaynium/Zim-Stock-Dashboard/refs/heads/main/app.py) found in this repo. 
 <br />
 <br />
 Final Dashboard:  <br/>
 <img src="https://i.imgur.com/tLtxzqa.png" height="80%" width="80%" alt="Trend Removal"/>
 <br />
 <br />
-The dashboard can be found on (https://spring-unit-5656.ploomber.app/app?theme=dark). Enjoy!
+The dashboard can be found on [the app](https://spring-unit-5656.ploomber.app/app?theme=dark). Enjoy!
 
 <!--
  ```diff
