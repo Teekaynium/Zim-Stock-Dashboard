@@ -5,10 +5,16 @@ This project continues on from the work done in the [Zim Stock Project](https://
 <br />
 <h2>Languages and Utilities Used</h2>
 
-<b>![image](https://github.com/user-attachments/assets/da230f44-a9fd-4bc7-b31a-c7c17053d2ea) Python 3.12.7 
+<b>![image](https://github.com/user-attachments/assets/da230f44-a9fd-4bc7-b31a-c7c17053d2ea) 
+
+Python 3.12.7 
+
+<img width="100" height="100" src="https://avatars.githubusercontent.com/u/60114551?s=200&v=4" alt="Ploomber Logo">
+
+Ploomber cloud (for dashboard deployment)
 </b>
   <h2>Python Packages Used</h2>
-  <b>datetime, math, matplotlib, pandas,hvplot, matplotlib, numpy, seaborn, datetime, panel (for dashboard creation), requests, ploomber cloud (for dashboard deployment)
+  <b>datetime, math, matplotlib, pandas,hvplot, matplotlib, numpy, seaborn, datetime, panel (for dashboard creation), requests
 </b>
 
 <h2>Environments Used </h2>
