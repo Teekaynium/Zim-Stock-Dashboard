@@ -21,7 +21,7 @@ This project continues on from the work done in the Zim-Stock-Project(https://gi
 
 <p align="center">
 Accessing Zim Stock json files: <br/>
-The project followed the code as described in the app.py file found in this repo. 
+The project follows the code as described in the app.py file (https://raw.githubusercontent.com/Teekaynium/Zim-Stock-Dashboard/refs/heads/main/app.py) found in this repo. 
 <br />
 <br />
 Final Dashboard:  <br/>
