@@ -1,7 +1,7 @@
 # Zim-Stock-Dashboard
 
 <h2>Description</h2>
-This project continues on from the work done in the Zim-Stock-Project. 
+This project continues on from the work done in the Zim-Stock-Project(https://github.com/Teekaynium/ZimStock-Project.git). Here, the json files that were created in the aforementioned project are used to create a dashboard that allows one to analyse the Zimbabwe Equity Market.  
 <br />
 
 
@@ -21,33 +21,14 @@ This project continues on from the work done in the Zim-Stock-Project.
 
 <p align="center">
 Accessing Zim Stock json files: <br/>
-The project followed the code as described in the py file found in the repo data. 
-<img src="https://i.imgur.com/vctkfGU.png" height="80%" width="80%" alt = "Data Collection"/>
+The project followed the code as described in the app.py file found in this repo. 
 <br />
 <br />
-Fitting linear regression model to au_usd:  <br/>
-<img src="https://i.imgur.com/eYYyutt.png" height="80%" width="80%" alt="Trend Removal"/>
+Final Dashboard:  <br/>
+<img src="https://i.imgur.com/tLtxzqa.png" height="80%" width="80%" alt="Trend Removal"/>
 <br />
 <br />
-Checking Residuals of above regression for trend: <br/>
-<img src="https://i.imgur.com/YxUavbf.png" height="80%" width="80%" alt="Trend Removal"/>
-<br />
-<br />
-Checking First difference of time series:  <br/>
-<img src="https://i.imgur.com/XQZ6lxn.png" height="80%" width="80%" alt="Trend Removal"/>
-<br />
-<br />
-Plotting Autocorrelation function of first difference:  <br/>
-<img src="https://i.imgur.com/oh14Ct6.png" height="80%" width="80%" alt="Trend Removal"/>
-<br />
-<br />
-Choosing the best ARIMA setting using auto_arima package from pmdarima.arima:  <br/>
-<img src="https://i.imgur.com/59xGyLR.png" height="80%" width="80%" alt="Modelling"/>
-<br />
-<br />
-Plotting price prediction (within predetermined confidence intervals) versus Actual Data:  <br/>
-<img src="https://i.imgur.com/alwUH0r.png" height="80%" width="80%" alt="Modelling"/>
-</p>
+The dashboard can be found on (https://spring-unit-5656.ploomber.app/app?theme=dark). Enjoy!
 
 <!--
  ```diff
