@@ -1,0 +1,8 @@
+pandas
+hvplot
+matplotlib
+numpy
+seaborn
+datetime
+panel
+requests
