@@ -1,10 +1,8 @@
 # Zim-Stock-Dashboard
 
 <h2>Description</h2>
-This project continues on from the work done in the [Zim-Stock-Project](https://github.com/Teekaynium/ZimStock-Project.git). Here, the json files that were created in the aforementioned project are used to create a dashboard that allows one to analyse the Zimbabwe Equity Market.  
+This project continues on from the work done in the [Zim Stock Project](https://github.com/Teekaynium/ZimStock-Project.git). Here, the json files that were created in the aforementioned project are used to create a dashboard that allows one to analyse the Zimbabwe Equity Market.  
 <br />
-
-
 <h2>Languages and Utilities Used</h2>
 
 <b>![image](https://github.com/user-attachments/assets/da230f44-a9fd-4bc7-b31a-c7c17053d2ea) Python 3.12.7 
