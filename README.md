@@ -38,7 +38,7 @@ Final Dashboard:  <br/>
 <br />
 <br /> 
 
-</b> The dashboard can be found on [the app](https://fragrant-mud-9818.ploomber.app/app?theme=dark). Enjoy! 
+</b> The dashboard can be found on [the app](https://icy-cell-4809.ploomber.app/app?theme=dark). Enjoy! 
 </b> 
 
 <!--
