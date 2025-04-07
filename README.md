@@ -12,6 +12,10 @@ Here, the json files that were created in the aforementioned project are used to
 
 Python 3.12.7 
 
+& 
+
+Tableau Public
+
 <img width="100" height="100" src="https://avatars.githubusercontent.com/u/60114551?s=200&v=4" alt="Ploomber Logo">
 
 Ploomber cloud (for dashboard deployment)
