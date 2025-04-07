@@ -34,11 +34,11 @@ Accessing Zim Stock json files: <br/>
 <br />
 <br />
 Final Dashboard:  <br/>
-<img src="https://i.imgur.com/tLtxzqa.png" height="80%" width="80%" alt="Trend Removal"/>
+<img src="https://imgur.com/a/ci52zfS" height="80%" width="80%" alt="Trend Removal"/>
 <br />
 <br /> 
 
-</b> The dashboard can be found on [the app](https://icy-cell-4809.ploomber.app/app?theme=dark). Enjoy! 
+</b> The dashboard can be found on [the app](https://public.tableau.com/shared/56CDN9NSY?:display_count=n&:origin=viz_share_link). Enjoy! 
 </b> 
 
 <!--
