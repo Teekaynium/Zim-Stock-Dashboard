@@ -21,7 +21,7 @@ Tableau Public
 
 </b>
   <h2>Python Packages Used</h2>
-  <b>datetime, math, matplotlib, pandas,hvplot, matplotlib, numpy, seaborn, datetime, panel (for dashboard creation), requests
+  <b>datetime, math, matplotlib, pandas, matplotlib, numpy, seaborn, datetime, requests
 </b>
 
 <h2>Environments Used </h2>
