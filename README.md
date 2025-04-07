@@ -38,7 +38,7 @@ Final Dashboard:  <br/>
 <br />
 <br /> 
 
-</b> The dashboard can be found on [the app](https://public.tableau.com/shared/56CDN9NSY?:display_count=n&:origin=viz_share_link). Enjoy! 
+</b> The dashboard can be found [here](https://public.tableau.com/shared/56CDN9NSY?:display_count=n&:origin=viz_share_link). Enjoy! 
 </b> 
 
 <!--
