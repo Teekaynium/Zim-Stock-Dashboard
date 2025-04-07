@@ -14,11 +14,11 @@ Python 3.12.7
 
 & 
 
+
+<img width="100" height="100" src="https://github.com/eritz1002/Tableau-Thumbnail/blob/main/DB2.png" alt="Ploomber Logo">
+
 Tableau Public
 
-<img width="100" height="100" src="https://avatars.githubusercontent.com/u/60114551?s=200&v=4" alt="Ploomber Logo">
-
-Ploomber cloud (for dashboard deployment)
 </b>
   <h2>Python Packages Used</h2>
   <b>datetime, math, matplotlib, pandas,hvplot, matplotlib, numpy, seaborn, datetime, panel (for dashboard creation), requests
