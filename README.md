@@ -42,7 +42,7 @@ Final Dashboard:  <br/>
 <br />
 <br /> 
 
-</b> The dashboard can be found [here]([https://public.tableau.com/views/ZimStockDashboard/Dashboard?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link]). Enjoy! 
+</b> The dashboard can be found [here](https://public.tableau.com/views/ZimStockDashboard/Dashboard?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link). Enjoy! 
 </b> 
 
 <!--
