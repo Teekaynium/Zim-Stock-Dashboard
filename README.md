@@ -38,7 +38,7 @@ Accessing Zim Stock json files: <br/>
 <br />
 <br />
 Final Dashboard:  <br/>
-<img src="https://i.imgur.com/HdFYskc.png" height="80%" width="80%" alt="Trend Removal"/>
+<img src="https://i.imgur.com/he5nErq.png" height="80%" width="80%" alt="Trend Removal"/>
 <br />
 <br /> 
 
